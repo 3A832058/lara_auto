@@ -1,0 +1,11 @@
+{
+    "name": "ncut/auto",
+    "description": "lara_auto",
+    "authors": [
+        {
+            "name": "ke xin ting",
+            "email": "greenpepper0606@gmail.com"
+        }
+    ],
+    "require": {}
+}
